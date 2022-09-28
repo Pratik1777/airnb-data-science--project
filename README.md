@@ -1,2 +1,2 @@
 # airnb-data-science--project
-[link to streamlit](https://saturn279-linear-regression-demo-streamlit-st-linear-ynsr8p.streamlitapp.com)
+[link to streamlit](https://pratik1777-airnb-data-science--project-streamlit-app-yb3j4v.streamlitapp.com/)
