@@ -57,7 +57,7 @@ def show_predict_page(model_revenue,model_booking_rate,describe):
     input=np.array([inputs]).astype(np.float64)
 
     output=model_revenue.predict(input)
-    st.success(f'Predicted Revenue is ${round(float({output:,}),2)} ')
+    st.success(f'Predicted Revenue is ${round(float(output),2)} ')
 
     st.text('                                        ') 
     output2=model_booking_rate.predict(input)
